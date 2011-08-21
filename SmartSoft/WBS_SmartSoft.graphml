@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  <!--Created by yFiles for Java 2.8-->
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yFiles for Java 2.7-->
   <key for="graphml" id="d0" yfiles.type="resources"/>
-  <key for="port" id="d1" yfiles.type="portgraphics"/>
-  <key for="port" id="d2" yfiles.type="portgeometry"/>
-  <key for="port" id="d3" yfiles.type="portuserdata"/>
-  <key attr.name="url" attr.type="string" for="node" id="d4"/>
-  <key attr.name="description" attr.type="string" for="node" id="d5"/>
-  <key for="node" id="d6" yfiles.type="nodegraphics"/>
-  <key attr.name="Description" attr.type="string" for="graph" id="d7"/>
-  <key for="edge" id="d8" yfiles.type="portconstraints"/>
+  <key attr.name="y.layout.PortConstraintKeys.PortConstraintKeys.SPC_KEY" attr.type="string" for="node" id="d1">
+    <default/>
+  </key>
+  <key attr.name="y.layout.PortConstraintKeys.PortConstraintKeys.TPC_KEY" attr.type="string" for="node" id="d2">
+    <default/>
+  </key>
+  <key attr.name="y.layout.PortConstraintKeys.SOURCE_GROUPID_KEY" attr.type="string" for="node" id="d3">
+    <default/>
+  </key>
+  <key attr.name="y.layout.PortConstraintKeys.TARGET_GROUPID_KEY" attr.type="string" for="node" id="d4">
+    <default/>
+  </key>
+  <key attr.name="url" attr.type="string" for="node" id="d5"/>
+  <key attr.name="description" attr.type="string" for="node" id="d6"/>
+  <key for="node" id="d7" yfiles.type="nodegraphics"/>
+  <key attr.name="Description" attr.type="string" for="graph" id="d8"/>
   <key attr.name="url" attr.type="string" for="edge" id="d9"/>
   <key attr.name="description" attr.type="string" for="edge" id="d10"/>
   <key for="edge" id="d11" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
-    <data key="d7"/>
+    <data key="d8"/>
     <node id="n0">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="475.5" y="244.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="57.349609375" x="27.3251953125" y="9.6494140625">SmartSoft</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="64.1875" x="23.90625" y="10.015625">SmartSoft</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -29,12 +37,12 @@
       </data>
     </node>
     <node id="n1">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="104.0" y="349.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="84.712890625" x="13.6435546875" y="9.6494140625">1. Planificacion</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="94.515625" x="8.7421875" y="10.015625">1. Planificacion</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -42,12 +50,12 @@
       </data>
     </node>
     <node id="n2">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="677.0" y="349.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="93.37890625" x="9.310546875" y="9.6494140625">4. Redistribucion</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="105.26171875" x="3.369140625" y="10.015625">4. Redistribucion</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -55,12 +63,12 @@
       </data>
     </node>
     <node id="n3">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="486.0" y="349.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="66.70703125" x="22.646484375" y="9.6494140625">3. Mudanza</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="73.451171875" x="19.2744140625" y="10.015625">3. Mudanza</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -68,12 +76,12 @@
       </data>
     </node>
     <node id="n4">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="295.0" y="349.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="98.0546875" x="6.97265625" y="9.6494140625">2. Contrataciones</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="110.154296875" x="0.9228515625" y="10.015625">2. Contrataciones</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -81,12 +89,12 @@
       </data>
     </node>
     <node id="n5">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="486.0" y="468.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="94.732421875" x="8.6337890625" y="2.298828125">3.2 intalacion de 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="108.091796875" x="1.9541015625" y="3.03125">3.2 intalacion de 
 comunicaciones</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -95,12 +103,12 @@ comunicaciones</y:NodeLabel>
       </data>
     </node>
     <node id="n6">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="486.0" y="417.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="78.05078125" x="16.974609375" y="2.298828125">3.1 ubicacion 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="88.099609375" x="11.9501953125" y="3.03125">3.1 ubicacion 
 del personal</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -109,12 +117,12 @@ del personal</y:NodeLabel>
       </data>
     </node>
     <node id="n7">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="677.0" y="411.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="85.38671875" x="13.306640625" y="2.298828125">4.1 reubicacion
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="96.6015625" x="7.69921875" y="3.03125">4.1 reubicacion
 del personal</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -123,12 +131,12 @@ del personal</y:NodeLabel>
       </data>
     </node>
     <node id="n8">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="295.0" y="411.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="52.697265625" x="29.6513671875" y="9.6494140625">2.1 fletes</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="60.1796875" x="25.91015625" y="10.015625">2.1 fletes</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -136,12 +144,12 @@ del personal</y:NodeLabel>
       </data>
     </node>
     <node id="n9">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="295.0" y="462.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="64.69140625" x="23.654296875" y="2.298828125">2.2 servicio
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="74.283203125" x="18.8583984375" y="3.03125">2.2 servicio
  de internet</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -150,12 +158,12 @@ del personal</y:NodeLabel>
       </data>
     </node>
     <node id="n10">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="486.0" y="519.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="84.05078125" x="13.974609375" y="2.298828125">3.3 instalacion 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="95.529296875" x="8.2353515625" y="3.03125">3.3 instalacion 
 del mobiliario</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -164,12 +172,12 @@ del mobiliario</y:NodeLabel>
       </data>
     </node>
     <node id="n11">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="295.0" y="513.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="76.720703125" x="17.6396484375" y="2.298828125">2.3 cajas 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="86.119140625" x="12.9404296875" y="3.03125">2.3 cajas 
 contenedoras</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -178,12 +186,12 @@ contenedoras</y:NodeLabel>
       </data>
     </node>
     <node id="n12">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="677.0" y="462.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="97.3984375" x="7.30078125" y="2.298828125">4.2 instalacion de
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="110.529296875" x="0.7353515625" y="3.03125">4.2 instalacion de
 comunicaciones</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -192,12 +200,12 @@ comunicaciones</y:NodeLabel>
       </data>
     </node>
     <node id="n13">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="677.0" y="513.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="85.38671875" x="13.306640625" y="2.298828125">4.3 reubicacion
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="96.6015625" x="7.69921875" y="3.03125">4.3 reubicacion
 del mobiliario</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -206,12 +214,12 @@ del mobiliario</y:NodeLabel>
       </data>
     </node>
     <node id="n14">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="868.0" y="349.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="96.0390625" x="7.98046875" y="2.298828125">5. Administracion
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="109.17578125" x="1.412109375" y="3.03125">5. Administracion
 del proyecto</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -220,12 +228,12 @@ del proyecto</y:NodeLabel>
       </data>
     </node>
     <node id="n15">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="104.0" y="473.25"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="100.71484375" x="5.642578125" y="2.298828125">1.2 infraestructura
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="116.423828125" x="-2.2119140625" y="3.03125">1.2 infraestructura
 de red</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -234,12 +242,12 @@ de red</y:NodeLabel>
       </data>
     </node>
     <node id="n16">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="104.0" y="529.5"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="78.05078125" x="16.974609375" y="2.298828125">1.3 ubicacion 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="88.099609375" x="11.9501953125" y="3.03125">1.3 ubicacion 
 de mobiliario</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -248,12 +256,12 @@ de mobiliario</y:NodeLabel>
       </data>
     </node>
     <node id="n17">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="104.0" y="417.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="78.05078125" x="16.974609375" y="2.298828125">1.1 ubicacion 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="88.099609375" x="11.9501953125" y="3.03125">1.1 ubicacion 
 de personal</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
@@ -262,13 +270,13 @@ de personal</y:NodeLabel>
       </data>
     </node>
     <node id="n18">
-      <data key="d6">
+      <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="104.0" y="580.5"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="95.3828125" x="8.30859375" y="2.298828125">1.4 redistribucion
-en nuevo piso</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="109.4921875" x="1.25390625" y="3.03125">1.4 redistribucion
+en nuevos pisos</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -283,7 +291,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="-59.57403564453125" y="36.65525619210962"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="-59.57403564453125" y="36.65525619210962"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -296,7 +304,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="5.5504638671875455" y="31.504638671875"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="5.5504638671875455" y="31.504638671875"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -309,7 +317,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="62.27239990234375" y="36.53400491189126"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="62.27239990234375" y="36.53400491189126"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -322,7 +330,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="138.24017333984375" y="40.05151133932122"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="138.24017333984375" y="40.05151133932122"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -335,7 +343,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="-131.74383544921875" y="39.23580813504162"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="-131.74383544921875" y="39.23580813504162"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -348,7 +356,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="12.974609375"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="12.974609375"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -361,7 +369,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="12.974609375"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="12.974609375"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -374,7 +382,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="10.0185546875"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="10.0185546875"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -387,7 +395,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="7.146117664062501"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="7.146117664062501"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -400,7 +408,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="7.146117664062558"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="7.146117664062558"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -413,7 +421,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -426,7 +434,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="10.0185546875"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="10.0185546875"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -439,7 +447,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -452,7 +460,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -465,7 +473,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -478,7 +486,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -491,7 +499,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -504,7 +512,7 @@ en nuevo piso</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
