@@ -15,7 +15,8 @@
           <y:Geometry height="36.0" width="100.0" x="320.0" y="-90.0"/>
           <y:Fill color="#CC99FF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="81.349609375" x="9.3251953125" y="9.015625">Banco Oasys</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="81.349609375" x="9.3251953125" y="2.03125">Proyecto
+Banco Oasys</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
@@ -124,26 +125,6 @@ personal</y:NodeLabel>
     <node id="n11">
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="47.0" width="120.0" x="461.50000000000006" y="183.0"/>
-          <y:Fill color="#339966" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="84.138671875" x="17.9306640625" y="14.515625">4.3 Manuales</y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n12">
-      <data key="d3">
-        <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="47.0" width="120.0" x="162.25" y="183.0"/>
-          <y:Fill color="#339966" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="84.138671875" x="17.9306640625" y="14.515625">2.3 Manuales</y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n13">
-      <data key="d3">
-        <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="310.0" y="-12.0"/>
           <y:Fill color="#0000FF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
@@ -152,17 +133,18 @@ informatico</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n14">
+    <node id="n12">
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="308.5" y="53.0"/>
           <y:Fill color="#339966" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="85.357421875" x="17.3212890625" y="14.515625">3.1 Programa</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="100.31640625" x="9.841796875" y="7.53125">3.1 Programa
+cobro de coutas</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n15">
+    <node id="n13">
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="161.5" y="118.0"/>
@@ -173,7 +155,7 @@ personal</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n16">
+    <node id="n14">
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="310.0" y="118.0"/>
@@ -184,18 +166,7 @@ personal</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n17">
-      <data key="d3">
-        <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="47.0" width="120.0" x="311.5" y="183.0"/>
-          <y:Fill color="#339966" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="84.138671875" x="17.9306640625" y="14.515625">3.3 Manuales</y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
     <edge id="e0" source="n3" target="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -209,7 +180,6 @@ personal</y:NodeLabel>
       </data>
     </edge>
     <edge id="e1" source="n2" target="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -224,7 +194,6 @@ personal</y:NodeLabel>
       </data>
     </edge>
     <edge id="e2" source="n4" target="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -238,7 +207,6 @@ personal</y:NodeLabel>
       </data>
     </edge>
     <edge id="e3" source="n1" target="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="5.0">
@@ -251,8 +219,7 @@ personal</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e4" source="n13" target="n0">
-      <data key="d5"/>
+    <edge id="e4" source="n11" target="n0">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -266,7 +233,6 @@ personal</y:NodeLabel>
       </data>
     </edge>
     <edge id="e5" source="n5" target="n3">
-      <data key="d5"/>
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -277,7 +243,6 @@ personal</y:NodeLabel>
       </data>
     </edge>
     <edge id="e6" source="n6" target="n5">
-      <data key="d5"/>
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -288,7 +253,6 @@ personal</y:NodeLabel>
       </data>
     </edge>
     <edge id="e7" source="n7" target="n6">
-      <data key="d5"/>
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -298,8 +262,7 @@ personal</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e8" source="n12" target="n15">
-      <data key="d5"/>
+    <edge id="e8" source="n13" target="n8">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -309,8 +272,7 @@ personal</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e9" source="n15" target="n8">
-      <data key="d5"/>
+    <edge id="e9" source="n8" target="n2">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -320,8 +282,7 @@ personal</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e10" source="n8" target="n2">
-      <data key="d5"/>
+    <edge id="e10" source="n12" target="n11">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -331,8 +292,7 @@ personal</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e11" source="n14" target="n13">
-      <data key="d5"/>
+    <edge id="e11" source="n14" target="n12">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -342,8 +302,7 @@ personal</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e12" source="n16" target="n14">
-      <data key="d5"/>
+    <edge id="e12" source="n10" target="n9">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -353,41 +312,7 @@ personal</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e13" source="n17" target="n16">
-      <data key="d5"/>
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e14" source="n10" target="n9">
-      <data key="d5"/>
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e15" source="n9" target="n1">
-      <data key="d5"/>
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e16" source="n11" target="n10">
-      <data key="d5"/>
+    <edge id="e13" source="n9" target="n1">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
