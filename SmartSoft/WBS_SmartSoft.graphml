@@ -2,16 +2,16 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!--Created by yFiles for Java 2.7-->
   <key for="graphml" id="d0" yfiles.type="resources"/>
-  <key attr.name="y.layout.PortConstraintKeys.PortConstraintKeys.SPC_KEY" attr.type="string" for="node" id="d1">
+  <key attr.name="y.layout.PortConstraintKeys.TARGET_GROUPID_KEY" attr.type="string" for="node" id="d1">
     <default/>
   </key>
-  <key attr.name="y.layout.PortConstraintKeys.PortConstraintKeys.TPC_KEY" attr.type="string" for="node" id="d2">
+  <key attr.name="y.layout.PortConstraintKeys.SOURCE_GROUPID_KEY" attr.type="string" for="node" id="d2">
     <default/>
   </key>
-  <key attr.name="y.layout.PortConstraintKeys.SOURCE_GROUPID_KEY" attr.type="string" for="node" id="d3">
+  <key attr.name="y.layout.PortConstraintKeys.PortConstraintKeys.TPC_KEY" attr.type="string" for="node" id="d3">
     <default/>
   </key>
-  <key attr.name="y.layout.PortConstraintKeys.TARGET_GROUPID_KEY" attr.type="string" for="node" id="d4">
+  <key attr.name="y.layout.PortConstraintKeys.PortConstraintKeys.SPC_KEY" attr.type="string" for="node" id="d4">
     <default/>
   </key>
   <key attr.name="url" attr.type="string" for="node" id="d5"/>
@@ -29,7 +29,8 @@
           <y:Geometry height="38.0" width="112.0" x="475.5" y="244.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="64.1875" x="23.90625" y="10.015625">SmartSoft</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="114.642578125" x="-1.3212890625" y="3.03125">Proyecto Mudanza
+SmartSoft</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -149,8 +150,7 @@ del personal</y:NodeLabel>
           <y:Geometry height="38.0" width="112.0" x="295.0" y="462.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="74.283203125" x="18.8583984375" y="3.03125">2.2 servicio
- de internet</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="79.427734375" x="16.2861328125" y="10.015625">2.2 servicios</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -174,20 +174,6 @@ del mobiliario</y:NodeLabel>
     <node id="n11">
       <data key="d7">
         <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="38.0" width="112.0" x="295.0" y="513.0"/>
-          <y:Fill color="#9EB8B8" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="86.119140625" x="12.9404296875" y="3.03125">2.3 cajas 
-contenedoras</y:NodeLabel>
-          <y:StyleProperties>
-            <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
-          </y:StyleProperties>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n12">
-      <data key="d7">
-        <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="677.0" y="462.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
@@ -199,7 +185,7 @@ comunicaciones</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n13">
+    <node id="n12">
       <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="677.0" y="513.0"/>
@@ -213,14 +199,28 @@ del mobiliario</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n14">
+    <node id="n13">
       <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="868.0" y="349.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="109.17578125" x="1.412109375" y="3.03125">5. Administracion
-del proyecto</y:NodeLabel>
+y control</y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n14">
+      <data key="d7">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="38.0" width="112.0" x="104.0" y="473.25"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="119.453125" x="-3.7265625" y="3.03125">1.2 infraestructura
+de comunicaciones</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -228,20 +228,6 @@ del proyecto</y:NodeLabel>
       </data>
     </node>
     <node id="n15">
-      <data key="d7">
-        <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="38.0" width="112.0" x="104.0" y="473.25"/>
-          <y:Fill color="#9EB8B8" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="116.423828125" x="-2.2119140625" y="3.03125">1.2 infraestructura
-de red</y:NodeLabel>
-          <y:StyleProperties>
-            <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
-          </y:StyleProperties>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n16">
       <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="104.0" y="529.5"/>
@@ -255,7 +241,7 @@ de mobiliario</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n17">
+    <node id="n16">
       <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="104.0" y="417.0"/>
@@ -269,7 +255,7 @@ de personal</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n18">
+    <node id="n17">
       <data key="d7">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="38.0" width="112.0" x="104.0" y="580.5"/>
@@ -277,6 +263,48 @@ de personal</y:NodeLabel>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="109.4921875" x="1.25390625" y="3.03125">1.4 redistribucion
 en nuevos pisos</y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n18">
+      <data key="d7">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="38.0" width="112.0" x="295.0" y="513.0"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="86.119140625" x="12.9404296875" y="3.03125">2.3 cajas
+contenedoras</y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n19">
+      <data key="d7">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="38.0" width="112.0" x="295.0" y="564.0"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="114.4609375" x="-1.23046875" y="3.03125">2.4 operarios para
+instalacion</y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n20">
+      <data key="d7">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="38.0" width="112.0" x="295.0" y="513.0"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="86.119140625" x="12.9404296875" y="3.03125">2.3 cajas 
+contenedoras</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -322,7 +350,7 @@ en nuevos pisos</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e3" source="n0" target="n14">
+    <edge id="e3" source="n0" target="n13">
       <data key="d9"/>
       <data key="d10"><![CDATA[UMLhas]]></data>
       <data key="d11">
@@ -348,7 +376,7 @@ en nuevos pisos</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e5" source="n1" target="n17">
+    <edge id="e5" source="n1" target="n16">
       <data key="d9"/>
       <data key="d10"><![CDATA[UMLhas]]></data>
       <data key="d11">
@@ -387,7 +415,7 @@ en nuevos pisos</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e8" source="n17" target="n15">
+    <edge id="e8" source="n16" target="n14">
       <data key="d9"/>
       <data key="d10"><![CDATA[UMLhas]]></data>
       <data key="d11">
@@ -400,7 +428,7 @@ en nuevos pisos</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e9" source="n15" target="n16">
+    <edge id="e9" source="n14" target="n15">
       <data key="d9"/>
       <data key="d10"><![CDATA[UMLhas]]></data>
       <data key="d11">
@@ -413,7 +441,7 @@ en nuevos pisos</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e10" source="n16" target="n18">
+    <edge id="e10" source="n15" target="n17">
       <data key="d9"/>
       <data key="d10"><![CDATA[UMLhas]]></data>
       <data key="d11">
@@ -452,7 +480,7 @@ en nuevos pisos</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e13" source="n9" target="n11">
+    <edge id="e13" source="n9" target="n20">
       <data key="d9"/>
       <data key="d10"><![CDATA[UMLhas]]></data>
       <data key="d11">
@@ -491,7 +519,7 @@ en nuevos pisos</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e16" source="n7" target="n12">
+    <edge id="e16" source="n7" target="n11">
       <data key="d9"/>
       <data key="d10"><![CDATA[UMLhas]]></data>
       <data key="d11">
@@ -504,7 +532,20 @@ en nuevos pisos</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e17" source="n12" target="n13">
+    <edge id="e17" source="n11" target="n12">
+      <data key="d9"/>
+      <data key="d10"><![CDATA[UMLhas]]></data>
+      <data key="d11">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="2.0" y="4.5244140625"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e18" source="n18" target="n19">
       <data key="d9"/>
       <data key="d10"><![CDATA[UMLhas]]></data>
       <data key="d11">
