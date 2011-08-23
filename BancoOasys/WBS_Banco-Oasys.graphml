@@ -13,7 +13,7 @@
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="36.0" width="100.0" x="320.0" y="-90.0"/>
-          <y:Fill color="#CC99FF" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="81.349609375" x="9.3251953125" y="2.03125">Proyecto
 Banco Oasys</y:NodeLabel>
@@ -24,7 +24,7 @@ Banco Oasys</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="458.5" y="-12.0"/>
-          <y:Fill color="#0000FF" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="85.7265625" x="17.13671875" y="14.515625">4.0 Consultas</y:NodeLabel>
         </y:GenericNode>
@@ -34,7 +34,7 @@ Banco Oasys</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="161.5" y="-12.0"/>
-          <y:Fill color="#0000FF" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="95.734375" x="12.1328125" y="14.515625">2.0 Suscripcion</y:NodeLabel>
         </y:GenericNode>
@@ -44,7 +44,7 @@ Banco Oasys</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="13.0" y="-12.0"/>
-          <y:Fill color="#0000FF" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="88.544921875" x="15.7275390625" y="14.515625">1.0 Publicidad</y:NodeLabel>
         </y:GenericNode>
@@ -54,7 +54,7 @@ Banco Oasys</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="607.0" y="-12.0"/>
-          <y:Fill color="#0000FF" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="111.00390625" x="4.498046875" y="7.53125">5.0 Adm y control
 del proyecto</y:NodeLabel>
@@ -65,7 +65,7 @@ del proyecto</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="13.0" y="53.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="64.228515625" x="27.8857421875" y="14.515625">1.1 Radial</y:NodeLabel>
         </y:GenericNode>
@@ -75,7 +75,7 @@ del proyecto</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="13.0" y="118.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="86.8046875" x="16.59765625" y="14.515625">1.2 Televisiva</y:NodeLabel>
         </y:GenericNode>
@@ -85,7 +85,7 @@ del proyecto</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="13.0" y="183.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="93.068359375" x="13.4658203125" y="14.515625">1.3 Via publica</y:NodeLabel>
         </y:GenericNode>
@@ -95,7 +95,7 @@ del proyecto</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="163.0" y="53.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="113.986328125" x="3.0068359375" y="14.515625">2.1 Programa web</y:NodeLabel>
         </y:GenericNode>
@@ -105,7 +105,7 @@ del proyecto</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="460.0" y="53.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="117.033203125" x="1.4833984375" y="14.515625">4.1 Contratar linea</y:NodeLabel>
         </y:GenericNode>
@@ -115,7 +115,7 @@ del proyecto</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="461.50000000000006" y="118.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="104.470703125" x="7.7646484375" y="7.53125">4.2 Capacitacion
 personal</y:NodeLabel>
@@ -126,7 +126,7 @@ personal</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="310.0" y="-12.0"/>
-          <y:Fill color="#0000FF" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="75.232421875" x="22.3837890625" y="7.53125">3.0 Sistema
 informatico</y:NodeLabel>
@@ -137,7 +137,7 @@ informatico</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="308.5" y="53.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="100.31640625" x="9.841796875" y="7.53125">3.1 Programa
 cobro de coutas</y:NodeLabel>
@@ -148,7 +148,7 @@ cobro de coutas</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="161.5" y="118.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="104.470703125" x="7.7646484375" y="7.53125">2.2 Capacitacion
 personal</y:NodeLabel>
@@ -159,7 +159,7 @@ personal</y:NodeLabel>
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="120.0" x="310.0" y="118.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="104.470703125" x="7.7646484375" y="7.53125">3.2 Capacitacion
 personal</y:NodeLabel>
