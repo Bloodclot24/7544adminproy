@@ -203,10 +203,10 @@ Jefe Infraestructura</y:NodeLabel>
     <node id="n13">
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="60.0" width="162.0" x="1143.0" y="350.0"/>
+          <y:Geometry height="60.0" width="162.0" x="926.0" y="350.0"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="116.810546875" x="22.5947265625" y="7.046875">1.6 Administracion
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="116.810546875" x="22.5947265625" y="7.046875">1.5 Administracion
 y control:
 Project Leader</y:NodeLabel>
           <y:StyleProperties>
@@ -314,20 +314,6 @@ Resp. Planificación</y:NodeLabel>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="132.109375" x="14.9453125" y="7.046875">1.2.4 Aceptacion de
 contrataciones: 
 Resp. Contrataciones</y:NodeLabel>
-          <y:StyleProperties>
-            <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
-          </y:StyleProperties>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n21">
-      <data key="d3">
-        <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="60.0" width="162.0" x="938.5" y="350.0"/>
-          <y:Fill color="#9EB8B8" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="97.685546875" x="32.1572265625" y="14.03125">1.5 Aceptacion:
-Proyect Leader</y:NodeLabel>
           <y:StyleProperties>
             <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
           </y:StyleProperties>
@@ -544,7 +530,7 @@ Proyect Leader</y:NodeLabel>
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="1224.0" y="330.0"/>
+            <y:Point x="1007.0" y="330.0"/>
             <y:Point x="610.5" y="330.0"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -579,19 +565,6 @@ Proyect Leader</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-12.44811320754718">
             <y:Point x="610.5" y="329.5770440251572"/>
             <y:Point x="610.5" y="329.5770440251572"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e20" source="n21" target="n0">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="1019.5" y="330.6533840637675"/>
-            <y:Point x="610.5" y="330.6533840637675"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
