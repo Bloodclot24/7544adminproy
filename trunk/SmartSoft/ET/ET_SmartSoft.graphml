@@ -197,86 +197,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e2" source="n2" target="n7">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="23.52197265625" tx="0.0" ty="0.0">
-            <y:Point x="269.3421861751151" y="-121.06216036866363"/>
-            <y:Point x="592.3433585253458" y="-125.66685714285717"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e3" source="n2" target="n8">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="23.491406249999983" tx="0.0" ty="0.0">
-            <y:Point x="270.6578138248847" y="-120.64325529953925"/>
-            <y:Point x="735.6728516129036" y="-127.22139354838714"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e4" source="n3" target="n2">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="30.0" y="-122.16666666666667"/>
-            <y:Point x="270.0" y="-122.16666666666667"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e5" source="n4" target="n2">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="23.491406249999983">
-            <y:Point x="171.9502377880184" y="-120.7630365591398"/>
-            <y:Point x="171.95023778801843" y="-122.73647803379421"/>
-            <y:Point x="270.89456221198157" y="-120.10522273425502"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e6" source="n5" target="n2">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="23.491406249999983">
-            <y:Point x="450.32949308755764" y="-123.9"/>
-            <y:Point x="271.05311705069124" y="-122.58437235023044"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e7" source="n6" target="n2">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-3.844836866359401" ty="13.006556682027735">
-            <y:Point x="307.0" y="-123.18147465437792"/>
-            <y:Point x="269.9353290322581" y="-121.86584700460836"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e8" source="n10" target="n9">
+    <edge id="e2" source="n10" target="n9">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -289,7 +210,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e9" source="n11" target="n9">
+    <edge id="e3" source="n11" target="n9">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="13.0">
@@ -302,7 +223,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e10" source="n12" target="n9">
+    <edge id="e4" source="n12" target="n9">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -315,7 +236,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e11" source="n9" target="n0">
+    <edge id="e5" source="n9" target="n0">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -328,12 +249,12 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e12" source="n3" target="n14">
+    <edge id="e6" source="n3" target="n2">
       <data key="d6">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="28.428110599078394" y="-47.14916790718274"/>
-            <y:Point x="101.9523041474655" y="-47.58860623041471"/>
+          <y:Path sx="-5.7782687253141845" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="24.221731274685816" y="-120.0"/>
+            <y:Point x="270.0" y="-120.0"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
@@ -341,12 +262,77 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e13" source="n3" target="n13">
+    <edge id="e7" source="n4" target="n2">
       <data key="d6">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-23.491406250000004">
-            <y:Point x="28.428110599078394" y="-47.58860623041471"/>
-            <y:Point x="-43.15063719646301" y="-47.14916790718274"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="13.0">
+            <y:Point x="168.5" y="-120.0"/>
+            <y:Point x="270.0" y="-120.0"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n6" target="n2">
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-4.1279152603228795">
+            <y:Point x="307.0" y="-120.0"/>
+            <y:Point x="270.0" y="-120.0"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n5" target="n2">
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.7925793895873312">
+            <y:Point x="450.32949308755764" y="-120.0"/>
+            <y:Point x="270.0" y="-120.0"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n7" target="n2">
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="13.0">
+            <y:Point x="593.6589861751154" y="-120.0"/>
+            <y:Point x="270.0" y="-120.0"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n13" target="n3">
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-42.45409341766123" y="-46.5"/>
+            <y:Point x="30.0" y="-46.5"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n14" target="n3">
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="3.3159184247408433" sy="0.0" tx="-7.105427357601002E-15" ty="8.980741113106149">
+            <y:Point x="104.556241005386" y="-46.5"/>
+            <y:Point x="29.999999999999993" y="-46.5"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
