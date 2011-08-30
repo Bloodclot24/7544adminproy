@@ -139,6 +139,26 @@ callcenter</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
+    <node id="n12">
+      <data key="d3">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="29.702672890484735" width="94.76380323159788" x="164.7361967684021" y="-23.0"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="85.3515625" x="4.706120365798938" y="5.866961445242367">Desarrollador</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d3">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="29.702672890484735" width="94.76380323159788" x="164.7361967684021" y="15.148663554757633"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="41.986328125" x="26.388737553298938" y="5.866961445242367">Tester</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
     <edge id="e0" source="n2" target="n0">
       <data key="d6">
         <y:PolyLineEdge>
@@ -274,6 +294,30 @@ callcenter</y:NodeLabel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="13.0">
             <y:Point x="964.5" y="-120.0"/>
             <y:Point x="719.5" y="-120.0"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n13" target="n7">
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="-43.0" ty="16.5">
+            <y:Point x="150.0" y="30.0"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n12" target="n7">
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="-43.0" ty="0.9103856373429267">
+            <y:Point x="150.0" y="-8.148663554757633"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
