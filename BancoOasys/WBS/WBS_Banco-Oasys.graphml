@@ -166,7 +166,7 @@ Jefe Desarrollo</y:NodeLabel>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="99.794921875" x="16.6025390625" y="0.546875">1.2.2 Desarrollo
 Programa web:
-Jefe RRHH</y:NodeLabel>
+Desarrollador</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
@@ -190,7 +190,7 @@ Proyect Leader</y:NodeLabel>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="95.130859375" x="18.9345703125" y="0.546875">1.2.3 Testeo
 Programa web:
-Jefe RRHH</y:NodeLabel>
+Tester</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
@@ -214,7 +214,7 @@ Jefe RRHH</y:NodeLabel>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="110.171875" x="11.4140625" y="0.546875">1.3.2 Desarrollo
 Programa cuotas:
-Jefe RRHH</y:NodeLabel>
+Desarrollador</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
@@ -226,7 +226,7 @@ Jefe RRHH</y:NodeLabel>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="110.171875" x="11.4140625" y="0.546875">1.3.3 Testeo
 Programa cuotas:
-Jefe RRHH</y:NodeLabel>
+Tester</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
