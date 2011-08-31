@@ -308,21 +308,6 @@ Resp. Planificación</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n20">
-      <data key="d3">
-        <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="60.0" width="162.0" x="325.0" y="674.0"/>
-          <y:Fill color="#9EB8B8" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="132.109375" x="14.9453125" y="7.046875">1.2.4 Aceptacion de
-contrataciones: 
-Resp. Contrataciones</y:NodeLabel>
-          <y:StyleProperties>
-            <y:Property class="java.lang.Boolean" name="ModernNodeShadow" value="false"/>
-          </y:StyleProperties>
-        </y:GenericNode>
-      </data>
-    </node>
     <edge id="e0" source="n1" target="n16">
       <data key="d7"/>
       <data key="d8"><![CDATA[UMLhas]]></data>
