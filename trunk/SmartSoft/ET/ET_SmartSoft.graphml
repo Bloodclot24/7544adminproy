@@ -109,50 +109,6 @@ contrataciones</y:NodeLabel>
     <node id="n9">
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="47.0" width="133.0" x="973.4806205837174" y="-188.8785069124423"/>
-          <y:Fill color="#9EB8B8" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="71.505859375" x="30.7470703125" y="7.53125">Gerente de
-SmartSoft</y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n10">
-      <data key="d3">
-        <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="47.0" width="133.0" x="818.5088325652841" y="-114.17972350230411"/>
-          <y:Fill color="#9EB8B8" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="62.892578125" x="35.0537109375" y="7.53125">Jefe de
-Proyectos</y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n11">
-      <data key="d3">
-        <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="47.0" width="133.0" x="975.0088325652841" y="-114.17972350230411"/>
-          <y:Fill color="#9EB8B8" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="57.56640625" x="37.716796875" y="7.53125">Jefe de
-Compras</y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n12">
-      <data key="d3">
-        <y:GenericNode configuration="BevelNode2">
-          <y:Geometry height="47.0" width="133.0" x="1131.5088325652841" y="-114.17972350230411"/>
-          <y:Fill color="#9EB8B8" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="45.34375" x="43.828125" y="7.53125">Jefe de
-RRHH</y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n13">
-      <data key="d3">
-        <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="133.0" x="-108.95409341766123" y="-32.21497695852531"/>
           <y:Fill color="#9EB8B8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
@@ -161,7 +117,7 @@ infraestructura</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n14">
+    <node id="n10">
       <data key="d3">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="47.0" width="133.0" x="34.740322580645156" y="-32.923271889400894"/>
@@ -169,6 +125,42 @@ infraestructura</y:NodeLabel>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="87.630859375" x="22.6845703125" y="7.53125">Operario
 de instalacion</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d3">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="47.0" width="133.0" x="885.209721454173" y="-186.5"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="75.625" x="28.6875" y="0.546875">PL
+Empresa de
+Fletes</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d3">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="47.0" width="133.0" x="1074.2482191500253" y="-186.5"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="81.75390625" x="25.623046875" y="0.546875">PL 
+Empresa 
+Constructora</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d3">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="47.0" width="133.0" x="1291.914885816692" y="-186.5"/>
+          <y:Fill color="#9EB8B8" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="75.625" x="28.6875" y="0.546875">Jefe de
+Empresa de
+Operarios</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
@@ -197,59 +189,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e2" source="n10" target="n9">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="900.0" y="-127.6442396313364"/>
-            <y:Point x="1040.6575473302612" y="-127.6442396313364"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e3" source="n11" target="n9">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="13.0">
-            <y:Point x="1040.5751920122889" y="-127.6442396313364"/>
-            <y:Point x="1040.886251920123" y="-125.31013824884792"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e4" source="n12" target="n9">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="1197.0751920122889" y="-127.6442396313364"/>
-            <y:Point x="1040.886251920123" y="-127.6442396313364"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e5" source="n9" target="n0">
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="1041.111520737327" y="-209.45853710599079"/>
-            <y:Point x="578.9594470046083" y="-210.3921776589862"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e6" source="n3" target="n2">
+    <edge id="e2" source="n3" target="n2">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="-5.7782687253141845" sy="0.0" tx="0.0" ty="0.0">
@@ -262,7 +202,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e7" source="n4" target="n2">
+    <edge id="e3" source="n4" target="n2">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="13.0">
@@ -275,7 +215,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e8" source="n6" target="n2">
+    <edge id="e4" source="n6" target="n2">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-4.1279152603228795">
@@ -288,7 +228,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e9" source="n5" target="n2">
+    <edge id="e5" source="n5" target="n2">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.7925793895873312">
@@ -301,7 +241,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e10" source="n7" target="n2">
+    <edge id="e6" source="n7" target="n2">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="13.0">
@@ -314,7 +254,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e11" source="n13" target="n3">
+    <edge id="e7" source="n9" target="n3">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -327,7 +267,7 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e12" source="n14" target="n3">
+    <edge id="e8" source="n10" target="n3">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="3.3159184247408433" sy="0.0" tx="-7.105427357601002E-15" ty="8.980741113106149">
@@ -340,12 +280,52 @@ de instalacion</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e13" source="n8" target="n2">
+    <edge id="e9" source="n8" target="n2">
       <data key="d6">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="13.0">
             <y:Point x="736.9884792626731" y="-120.0"/>
             <y:Point x="270.0" y="-120.0"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n0" target="n11">
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="23.52197265625" tx="0.0" ty="-23.52197265625">
+            <y:Point x="580.0276497695854" y="-210.56068622222202"/>
+            <y:Point x="951.709721454173" y="-210.56068622222202"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n0" target="n12">
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="23.52197265625" tx="0.0" ty="0.0">
+            <y:Point x="580.0276497695854" y="-209.35753362962907"/>
+            <y:Point x="1140.7482191500253" y="-209.35753362962907"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n0" target="n13">
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="23.52197265625" tx="0.0" ty="0.0">
+            <y:Point x="580.0276497695854" y="-209.88087585185144"/>
+            <y:Point x="1358.414885816692" y="-209.88087585185144"/>
+            <y:Point x="1358.414885816692" y="-191.65865362962927"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
